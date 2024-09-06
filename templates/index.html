@@ -1,0 +1,68 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Strategy Generator</title>
+</head>
+<body>
+    <h1>Automated Search Strategy Generator</h1>
+    <form id="descriptionForm">
+        <label for="description">Job Description:</label><br>
+        <textarea id="description" name="description" rows="4" cols="50"></textarea><br>
+        <button type="button" onclick="generateSearchQuery()">Generate Search Strategy</button>
+    </form>
+    <p id="output"></p>
+
+    <script src="script.js"></script>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NER Model Demo</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+        textarea { width: 100%; height: 150px; margin-bottom: 10px; }
+        button { padding: 10px 20px; font-size: 16px; }
+        .results { margin-top: 20px; }
+        .entity { color: #007BFF; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Automated Search Strategy Generator</h1>
+        <form id="ner-form">
+            <textarea name="text" placeholder="Enter text here..."></textarea><br>
+            <button type="submit">Analyze</button>
+        </form>
+        <div class="results" id="results"></div>
+    </div>
+
+    <script>
+        $('#ner-form').submit(function(event) {
+            event.preventDefault();
+            $.ajax({
+                type: 'POST',
+                url: '/predict',
+                data: $(this).serialize(),
+                success: function(response) {
+                    let resultHtml = '';
+                    response.forEach(function(entity) {
+                        resultHtml += `<div class="entity">Entity: ${entity.text} (Label: ${entity.label})</div>`;
+                    });
+                    $('#results').html(resultHtml);
+                },
+                error: function() {
+                    $('#results').html('An error occurred. Please try again.');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
