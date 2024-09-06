@@ -1,0 +1,46 @@
+Sentence,Entity,Label
+We are looking for a Senior Data Scientist with experience in Python and SQL.,Senior Data Scientist,JOB_TITLE
+We are looking for a Senior Data Scientist with experience in Python and SQL.,Python,SKILL
+We are looking for a Senior Data Scientist with experience in Python and SQL.,SQL,SKILL
+We are seeking a Full Stack Developer proficient in JavaScript and React.,Full Stack Developer,JOB_TITLE
+We are seeking a Full Stack Developer proficient in JavaScript and React.,JavaScript,SKILL
+We are seeking a Full Stack Developer proficient in JavaScript and React.,React,SKILL
+Hiring a DevOps Engineer with expertise in AWS and Docker.,DevOps Engineer,JOB_TITLE
+Hiring a DevOps Engineer with expertise in AWS and Docker.,AWS,SKILL
+Hiring a DevOps Engineer with expertise in AWS and Docker.,Docker,SKILL
+Looking for a Network Administrator familiar with Cisco systems and network security.,Network Administrator,JOB_TITLE
+Looking for a Network Administrator familiar with Cisco systems and network security.,Cisco systems,SKILL
+Looking for a Network Administrator familiar with Cisco systems and network security.,network security,SKILL
+We need a Machine Learning Engineer experienced in TensorFlow and PyTorch.,Machine Learning Engineer,JOB_TITLE
+We need a Machine Learning Engineer experienced in TensorFlow and PyTorch.,TensorFlow,SKILL
+We need a Machine Learning Engineer experienced in TensorFlow and PyTorch.,PyTorch,SKILL
+Seeking a Cybersecurity Analyst with knowledge of penetration testing and firewall management.,Cybersecurity Analyst,JOB_TITLE
+Seeking a Cybersecurity Analyst with knowledge of penetration testing and firewall management.,penetration testing,SKILL
+Seeking a Cybersecurity Analyst with knowledge of penetration testing and firewall management.,firewall management,SKILL
+"Experience using analytical, marketing, and productivity tools including Oracle Business Intelligence, Salesforce or other CRM tools, Microsoft OneNote, and Microsoft SharePoint.",analytical,SKILL
+"Experience using analytical, marketing, and productivity tools including Oracle Business Intelligence, Salesforce or other CRM tools, Microsoft OneNote, and Microsoft SharePoint.",marketing,SKILL
+"Experience using analytical, marketing, and productivity tools including Oracle Business Intelligence, Salesforce or other CRM tools, Microsoft OneNote, and Microsoft SharePoint.",productivity tools,SKILL
+"Experience using analytical, marketing, and productivity tools including Oracle Business Intelligence, Salesforce or other CRM tools, Microsoft OneNote, and Microsoft SharePoint.",Oracle Business Intelligence,SKILL
+"Experience using analytical, marketing, and productivity tools including Oracle Business Intelligence, Salesforce or other CRM tools, Microsoft OneNote, and Microsoft SharePoint.",Salesforce,SKILL
+"Experience using analytical, marketing, and productivity tools including Oracle Business Intelligence, Salesforce or other CRM tools, Microsoft OneNote, and Microsoft SharePoint.",CRM tools,SKILL
+"Experience using analytical, marketing, and productivity tools including Oracle Business Intelligence, Salesforce or other CRM tools, Microsoft OneNote, and Microsoft SharePoint.",Microsoft OneNote,SKILL
+"Experience using analytical, marketing, and productivity tools including Oracle Business Intelligence, Salesforce or other CRM tools, Microsoft OneNote, and Microsoft SharePoint.",Microsoft SharePoint,SKILL
+"Possess strong data analytics (chart, dashboard etc) and coding skills with good understanding of IT Infrastructure concepts",data analytics,SKILL
+"Possess strong data analytics (chart, dashboard etc) and coding skills with good understanding of IT Infrastructure concepts",coding,SKILL
+"Possess strong data analytics (chart, dashboard etc) and coding skills with good understanding of IT Infrastructure concepts",IT Infrastructure concepts,SKILL
+"Familiar with cloud infrastructure, good understanding of different data storages and message queues for data streaming and pipelining",cloud infrastructure,SKILL
+"Familiar with cloud infrastructure, good understanding of different data storages and message queues for data streaming and pipelining",data storages,SKILL
+"Familiar with cloud infrastructure, good understanding of different data storages and message queues for data streaming and pipelining",message queues,SKILL
+"Familiar with cloud infrastructure, good understanding of different data storages and message queues for data streaming and pipelining",data streaming,SKILL
+"Familiar with cloud infrastructure, good understanding of different data storages and message queues for data streaming and pipelining",pipelining,SKILL
+"Experience in machine learning frameworks (scikit-learn, Tensorflow, Pytorch), big data frameworks (Spark/Hadoop/Flink) and experience in resource management and task scheduling for large scale distributed systems.",machine learning frameworks,SKILL
+"Experience in machine learning frameworks (scikit-learn, Tensorflow, Pytorch), big data frameworks (Spark/Hadoop/Flink) and experience in resource management and task scheduling for large scale distributed systems.",scikit-learn,SKILL
+"Experience in machine learning frameworks (scikit-learn, Tensorflow, Pytorch), big data frameworks (Spark/Hadoop/Flink) and experience in resource management and task scheduling for large scale distributed systems.",Tensorflow,SKILL
+"Experience in machine learning frameworks (scikit-learn, Tensorflow, Pytorch), big data frameworks (Spark/Hadoop/Flink) and experience in resource management and task scheduling for large scale distributed systems.",Pytorch,SKILL
+"Experience in machine learning frameworks (scikit-learn, Tensorflow, Pytorch), big data frameworks (Spark/Hadoop/Flink) and experience in resource management and task scheduling for large scale distributed systems.",big data frameworks,SKILL
+"Experience in machine learning frameworks (scikit-learn, Tensorflow, Pytorch), big data frameworks (Spark/Hadoop/Flink) and experience in resource management and task scheduling for large scale distributed systems.",Spark,SKILL
+"Experience in machine learning frameworks (scikit-learn, Tensorflow, Pytorch), big data frameworks (Spark/Hadoop/Flink) and experience in resource management and task scheduling for large scale distributed systems.",Hadoop,SKILL
+"Experience in machine learning frameworks (scikit-learn, Tensorflow, Pytorch), big data frameworks (Spark/Hadoop/Flink) and experience in resource management and task scheduling for large scale distributed systems.",Flink,SKILL
+"Experience in machine learning frameworks (scikit-learn, Tensorflow, Pytorch), big data frameworks (Spark/Hadoop/Flink) and experience in resource management and task scheduling for large scale distributed systems.",resource management,SKILL
+"Experience in machine learning frameworks (scikit-learn, Tensorflow, Pytorch), big data frameworks (Spark/Hadoop/Flink) and experience in resource management and task scheduling for large scale distributed systems.",task scheduling,SKILL
+"Experience in machine learning frameworks (scikit-learn, Tensorflow, Pytorch), big data frameworks (Spark/Hadoop/Flink) and experience in resource management and task scheduling for large scale distributed systems.",large scale distributed systems,SKILL
